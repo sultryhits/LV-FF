@@ -2,13 +2,15 @@ name: Refresh fantasy data and deploy site
 
 on:
   schedule:
-    - cron: "0 13 * * 2"   # Tuesday  9:00 AM ET
-    - cron: "0 21 * * 4"   # Thursday 5:00 PM ET
-    - cron: "0 13 * * 0"   # Sunday   9:00 AM ET
-  workflow_dispatch: {}
+    # All times UTC. Tue 9am ET, Thu 5pm ET, Sun 9am ET (EDT, UTC-4).
+    # If you ever want to nudge these, https://crontab.guru helps.
+    - cron: "0 13 * * 2"   # Tuesday  9:00 AM ET -- post-MNF, ROS/consensus refresh
+    - cron: "0 21 * * 4"   # Thursday 5:00 PM ET -- that week's props are mostly posted by now
+    - cron: "0 13 * * 0"   # Sunday   9:00 AM ET -- closing-line pass, final start/sit check
+  workflow_dispatch: {}     # lets you click "Run workflow" in the Actions tab any time
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -40,6 +42,17 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scripts/fetch_odds.py
+
+      - name: Track closing line value
+        run: python scripts/track_clv.py
+
+      - name: Commit CLV history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/clv_history.json
+          git diff --staged --quiet || git commit -m "Update CLV history [skip ci]"
+          git push
 
       - name: Build site
         run: python scripts/build_site.py
