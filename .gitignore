@@ -1,0 +1,5 @@
+data/fantasypros.json
+data/odds.json
+_site/
+__pycache__/
+*.pyc
