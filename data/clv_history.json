@@ -6350,9 +6350,10 @@
     "commence_time": "2026-10-18T13:30:00Z",
     "opening_fair_prob": 0.5023,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4328,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
-    "closed": false
+    "latest_fair_prob": 0.6959,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
+    "closed": true,
+    "closing_fair_prob": 0.6959
   },
   "game|Houston Texans @ Jacksonville Jaguars|h2h|Jacksonville Jaguars": {
     "matchup": "Houston Texans @ Jacksonville Jaguars",
@@ -6363,9 +6364,10 @@
     "commence_time": "2026-10-18T13:30:00Z",
     "opening_fair_prob": 0.4977,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5672,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
-    "closed": false
+    "latest_fair_prob": 0.3041,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
+    "closed": true,
+    "closing_fair_prob": 0.3041
   },
   "game|Houston Texans @ Jacksonville Jaguars|spreads|Houston Texans": {
     "matchup": "Houston Texans @ Jacksonville Jaguars",
@@ -6376,9 +6378,10 @@
     "commence_time": "2026-10-18T13:30:00Z",
     "opening_fair_prob": 0.4965,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4906,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
-    "closed": false
+    "latest_fair_prob": 0.4935,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
+    "closed": true,
+    "closing_fair_prob": 0.4935
   },
   "game|Houston Texans @ Jacksonville Jaguars|spreads|Jacksonville Jaguars": {
     "matchup": "Houston Texans @ Jacksonville Jaguars",
@@ -6389,9 +6392,10 @@
     "commence_time": "2026-10-18T13:30:00Z",
     "opening_fair_prob": 0.5035,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5094,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
-    "closed": false
+    "latest_fair_prob": 0.5065,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
+    "closed": true,
+    "closing_fair_prob": 0.5065
   },
   "game|Houston Texans @ Jacksonville Jaguars|totals|Over": {
     "matchup": "Houston Texans @ Jacksonville Jaguars",
@@ -6402,9 +6406,10 @@
     "commence_time": "2026-10-18T13:30:00Z",
     "opening_fair_prob": 0.5036,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4998,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
-    "closed": false
+    "latest_fair_prob": 0.5109,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
+    "closed": true,
+    "closing_fair_prob": 0.5109
   },
   "game|Houston Texans @ Jacksonville Jaguars|totals|Under": {
     "matchup": "Houston Texans @ Jacksonville Jaguars",
@@ -6415,9 +6420,10 @@
     "commence_time": "2026-10-18T13:30:00Z",
     "opening_fair_prob": 0.4964,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5002,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
-    "closed": false
+    "latest_fair_prob": 0.4891,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
+    "closed": true,
+    "closing_fair_prob": 0.4891
   },
   "game|Chicago Bears @ Atlanta Falcons|h2h|Atlanta Falcons": {
     "matchup": "Chicago Bears @ Atlanta Falcons",
@@ -6428,8 +6434,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.417,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4864,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4839,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Chicago Bears @ Atlanta Falcons|h2h|Chicago Bears": {
@@ -6441,8 +6447,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.583,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5136,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5161,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Chicago Bears @ Atlanta Falcons|spreads|Atlanta Falcons": {
@@ -6454,8 +6460,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5039,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5021,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Chicago Bears @ Atlanta Falcons|spreads|Chicago Bears": {
@@ -6467,8 +6473,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4961,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4979,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Chicago Bears @ Atlanta Falcons|totals|Over": {
@@ -6480,8 +6486,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5001,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4984,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Chicago Bears @ Atlanta Falcons|totals|Under": {
@@ -6493,8 +6499,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4999,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5016,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Baltimore Ravens @ Cleveland Browns|h2h|Baltimore Ravens": {
@@ -6506,8 +6512,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.6908,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.6518,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.6093,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Baltimore Ravens @ Cleveland Browns|h2h|Cleveland Browns": {
@@ -6519,8 +6525,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.3092,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.3482,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.3907,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Baltimore Ravens @ Cleveland Browns|spreads|Baltimore Ravens": {
@@ -6532,8 +6538,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5099,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Baltimore Ravens @ Cleveland Browns|spreads|Cleveland Browns": {
@@ -6545,8 +6551,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4901,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Baltimore Ravens @ Cleveland Browns|totals|Over": {
@@ -6558,8 +6564,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4989,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5001,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Baltimore Ravens @ Cleveland Browns|totals|Under": {
@@ -6571,8 +6577,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5011,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4999,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Carolina Panthers @ Philadelphia Eagles|h2h|Carolina Panthers": {
@@ -6584,8 +6590,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.2905,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.6269,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5989,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Carolina Panthers @ Philadelphia Eagles|h2h|Philadelphia Eagles": {
@@ -6597,8 +6603,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.7095,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.3731,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4011,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Carolina Panthers @ Philadelphia Eagles|spreads|Carolina Panthers": {
@@ -6610,8 +6616,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4961,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5079,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Carolina Panthers @ Philadelphia Eagles|spreads|Philadelphia Eagles": {
@@ -6623,8 +6629,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5039,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4921,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Carolina Panthers @ Philadelphia Eagles|totals|Over": {
@@ -6636,8 +6642,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5021,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5026,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Carolina Panthers @ Philadelphia Eagles|totals|Under": {
@@ -6649,8 +6655,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4979,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4974,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tennessee Titans @ Indianapolis Colts|h2h|Indianapolis Colts": {
@@ -6662,8 +6668,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.6309,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.7351,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.7193,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tennessee Titans @ Indianapolis Colts|h2h|Tennessee Titans": {
@@ -6675,8 +6681,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.3691,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.2649,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.2807,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tennessee Titans @ Indianapolis Colts|spreads|Indianapolis Colts": {
@@ -6688,8 +6694,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4934,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4948,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tennessee Titans @ Indianapolis Colts|spreads|Tennessee Titans": {
@@ -6701,8 +6707,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5066,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5052,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tennessee Titans @ Indianapolis Colts|totals|Over": {
@@ -6714,8 +6720,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5013,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5047,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tennessee Titans @ Indianapolis Colts|totals|Under": {
@@ -6727,8 +6733,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4987,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4953,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New York Jets @ New England Patriots|h2h|New England Patriots": {
@@ -6740,8 +6746,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.7819,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.74,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.7491,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New York Jets @ New England Patriots|h2h|New York Jets": {
@@ -6753,8 +6759,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.2181,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.26,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.2509,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New York Jets @ New England Patriots|spreads|New England Patriots": {
@@ -6766,8 +6772,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4989,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4992,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New York Jets @ New England Patriots|spreads|New York Jets": {
@@ -6779,8 +6785,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5011,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5008,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New York Jets @ New England Patriots|totals|Over": {
@@ -6792,8 +6798,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5008,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4973,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New York Jets @ New England Patriots|totals|Under": {
@@ -6805,8 +6811,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4992,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5027,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New Orleans Saints @ New York Giants|h2h|New Orleans Saints": {
@@ -6818,8 +6824,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.4486,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5078,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4993,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New Orleans Saints @ New York Giants|h2h|New York Giants": {
@@ -6831,8 +6837,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5514,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4922,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5007,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New Orleans Saints @ New York Giants|spreads|New Orleans Saints": {
@@ -6844,8 +6850,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.4946,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4939,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4897,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New Orleans Saints @ New York Giants|spreads|New York Giants": {
@@ -6857,8 +6863,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5054,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5061,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5103,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New Orleans Saints @ New York Giants|totals|Over": {
@@ -6870,8 +6876,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4999,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4988,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New Orleans Saints @ New York Giants|totals|Under": {
@@ -6883,8 +6889,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5001,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5012,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ Tampa Bay Buccaneers|h2h|Pittsburgh Steelers": {
@@ -6896,8 +6902,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.4675,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.563,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5513,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ Tampa Bay Buccaneers|h2h|Tampa Bay Buccaneers": {
@@ -6909,8 +6915,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5325,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.437,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4487,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ Tampa Bay Buccaneers|spreads|Pittsburgh Steelers": {
@@ -6922,8 +6928,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5085,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5036,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ Tampa Bay Buccaneers|spreads|Tampa Bay Buccaneers": {
@@ -6935,8 +6941,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4915,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4964,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ Tampa Bay Buccaneers|totals|Over": {
@@ -6948,8 +6954,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4925,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4942,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ Tampa Bay Buccaneers|totals|Under": {
@@ -6961,8 +6967,8 @@
     "commence_time": "2026-10-18T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5075,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5058,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Arizona Cardinals @ Los Angeles Rams|h2h|Arizona Cardinals": {
@@ -6974,8 +6980,8 @@
     "commence_time": "2026-10-18T20:05:00Z",
     "opening_fair_prob": 0.1475,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.1457,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.1404,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Arizona Cardinals @ Los Angeles Rams|h2h|Los Angeles Rams": {
@@ -6987,8 +6993,8 @@
     "commence_time": "2026-10-18T20:05:00Z",
     "opening_fair_prob": 0.8525,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.8543,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.8596,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Arizona Cardinals @ Los Angeles Rams|spreads|Arizona Cardinals": {
@@ -7000,8 +7006,8 @@
     "commence_time": "2026-10-18T20:05:00Z",
     "opening_fair_prob": 0.4957,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5016,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5008,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Arizona Cardinals @ Los Angeles Rams|spreads|Los Angeles Rams": {
@@ -7013,8 +7019,8 @@
     "commence_time": "2026-10-18T20:05:00Z",
     "opening_fair_prob": 0.5043,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4984,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4992,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Arizona Cardinals @ Los Angeles Rams|totals|Over": {
@@ -7026,8 +7032,8 @@
     "commence_time": "2026-10-18T20:05:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.504,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5021,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Arizona Cardinals @ Los Angeles Rams|totals|Under": {
@@ -7039,8 +7045,8 @@
     "commence_time": "2026-10-18T20:05:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.496,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4979,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Buffalo Bills @ Las Vegas Raiders|h2h|Buffalo Bills": {
@@ -7052,8 +7058,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.7002,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.6741,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.6759,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Buffalo Bills @ Las Vegas Raiders|h2h|Las Vegas Raiders": {
@@ -7065,8 +7071,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.2998,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.3259,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.3241,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Buffalo Bills @ Las Vegas Raiders|spreads|Buffalo Bills": {
@@ -7079,7 +7085,7 @@
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
     "latest_fair_prob": 0.5012,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Buffalo Bills @ Las Vegas Raiders|spreads|Las Vegas Raiders": {
@@ -7092,7 +7098,7 @@
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
     "latest_fair_prob": 0.4988,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Buffalo Bills @ Las Vegas Raiders|totals|Over": {
@@ -7104,8 +7110,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4965,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5004,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Buffalo Bills @ Las Vegas Raiders|totals|Under": {
@@ -7117,8 +7123,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5035,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4996,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Chargers @ Kansas City Chiefs|h2h|Kansas City Chiefs": {
@@ -7130,8 +7136,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.5514,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.7795,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.777,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Chargers @ Kansas City Chiefs|h2h|Los Angeles Chargers": {
@@ -7143,8 +7149,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.4486,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.2205,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.223,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Chargers @ Kansas City Chiefs|spreads|Kansas City Chiefs": {
@@ -7156,8 +7162,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4883,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4891,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Chargers @ Kansas City Chiefs|spreads|Los Angeles Chargers": {
@@ -7169,8 +7175,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5117,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5109,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Chargers @ Kansas City Chiefs|totals|Over": {
@@ -7182,8 +7188,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4972,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5001,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Chargers @ Kansas City Chiefs|totals|Under": {
@@ -7195,8 +7201,8 @@
     "commence_time": "2026-10-18T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5028,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4999,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Dallas Cowboys @ Green Bay Packers|h2h|Dallas Cowboys": {
@@ -7208,8 +7214,8 @@
     "commence_time": "2026-10-19T00:20:00Z",
     "opening_fair_prob": 0.4004,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4791,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4886,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Dallas Cowboys @ Green Bay Packers|h2h|Green Bay Packers": {
@@ -7221,8 +7227,8 @@
     "commence_time": "2026-10-19T00:20:00Z",
     "opening_fair_prob": 0.5996,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5209,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5114,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Dallas Cowboys @ Green Bay Packers|spreads|Dallas Cowboys": {
@@ -7234,8 +7240,8 @@
     "commence_time": "2026-10-19T00:20:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4988,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5007,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Dallas Cowboys @ Green Bay Packers|spreads|Green Bay Packers": {
@@ -7247,8 +7253,8 @@
     "commence_time": "2026-10-19T00:20:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5012,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4993,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Dallas Cowboys @ Green Bay Packers|totals|Over": {
@@ -7260,8 +7266,8 @@
     "commence_time": "2026-10-19T00:20:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5001,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4982,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Dallas Cowboys @ Green Bay Packers|totals|Under": {
@@ -7273,8 +7279,8 @@
     "commence_time": "2026-10-19T00:20:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4999,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5018,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Washington Commanders @ San Francisco 49ers|h2h|San Francisco 49ers": {
@@ -7286,8 +7292,8 @@
     "commence_time": "2026-10-20T00:15:00Z",
     "opening_fair_prob": 0.6854,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.7679,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.773,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Washington Commanders @ San Francisco 49ers|h2h|Washington Commanders": {
@@ -7299,8 +7305,8 @@
     "commence_time": "2026-10-20T00:15:00Z",
     "opening_fair_prob": 0.3146,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.2321,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.227,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Washington Commanders @ San Francisco 49ers|spreads|San Francisco 49ers": {
@@ -7312,8 +7318,8 @@
     "commence_time": "2026-10-20T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4954,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4956,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Washington Commanders @ San Francisco 49ers|spreads|Washington Commanders": {
@@ -7325,8 +7331,8 @@
     "commence_time": "2026-10-20T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5046,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5044,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Washington Commanders @ San Francisco 49ers|totals|Over": {
@@ -7338,8 +7344,8 @@
     "commence_time": "2026-10-20T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5001,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4992,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Washington Commanders @ San Francisco 49ers|totals|Under": {
@@ -7351,8 +7357,8 @@
     "commence_time": "2026-10-20T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4999,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5008,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New England Patriots @ Chicago Bears|h2h|Chicago Bears": {
@@ -7364,8 +7370,8 @@
     "commence_time": "2026-10-23T00:15:00Z",
     "opening_fair_prob": 0.5325,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5404,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5333,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New England Patriots @ Chicago Bears|h2h|New England Patriots": {
@@ -7377,8 +7383,8 @@
     "commence_time": "2026-10-23T00:15:00Z",
     "opening_fair_prob": 0.4675,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4596,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4667,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New England Patriots @ Chicago Bears|spreads|Chicago Bears": {
@@ -7390,8 +7396,8 @@
     "commence_time": "2026-10-23T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5012,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5008,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New England Patriots @ Chicago Bears|spreads|New England Patriots": {
@@ -7403,8 +7409,8 @@
     "commence_time": "2026-10-23T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4988,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4992,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New England Patriots @ Chicago Bears|totals|Over": {
@@ -7416,8 +7422,8 @@
     "commence_time": "2026-10-23T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5025,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4973,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New England Patriots @ Chicago Bears|totals|Under": {
@@ -7429,8 +7435,8 @@
     "commence_time": "2026-10-23T00:15:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4975,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5027,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ New Orleans Saints|h2h|New Orleans Saints": {
@@ -7442,8 +7448,8 @@
     "commence_time": "2026-10-25T13:30:00Z",
     "opening_fair_prob": 0.4469,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4459,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4499,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ New Orleans Saints|h2h|Pittsburgh Steelers": {
@@ -7455,8 +7461,8 @@
     "commence_time": "2026-10-25T13:30:00Z",
     "opening_fair_prob": 0.5531,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5541,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5501,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ New Orleans Saints|spreads|New Orleans Saints": {
@@ -7468,8 +7474,8 @@
     "commence_time": "2026-10-25T13:30:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4974,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4955,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ New Orleans Saints|spreads|Pittsburgh Steelers": {
@@ -7481,8 +7487,8 @@
     "commence_time": "2026-10-25T13:30:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5026,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5045,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ New Orleans Saints|totals|Over": {
@@ -7494,8 +7500,8 @@
     "commence_time": "2026-10-25T13:30:00Z",
     "opening_fair_prob": 0.505,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4968,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4944,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Pittsburgh Steelers @ New Orleans Saints|totals|Under": {
@@ -7507,8 +7513,8 @@
     "commence_time": "2026-10-25T13:30:00Z",
     "opening_fair_prob": 0.495,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5032,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5056,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|San Francisco 49ers @ Atlanta Falcons|h2h|Atlanta Falcons": {
@@ -7520,8 +7526,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.3364,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.3387,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.344,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|San Francisco 49ers @ Atlanta Falcons|h2h|San Francisco 49ers": {
@@ -7533,8 +7539,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.6636,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.6613,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.656,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|San Francisco 49ers @ Atlanta Falcons|spreads|Atlanta Falcons": {
@@ -7546,8 +7552,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5023,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5047,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|San Francisco 49ers @ Atlanta Falcons|spreads|San Francisco 49ers": {
@@ -7559,8 +7565,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4977,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4953,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|San Francisco 49ers @ Atlanta Falcons|totals|Over": {
@@ -7572,8 +7578,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.503,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5018,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|San Francisco 49ers @ Atlanta Falcons|totals|Under": {
@@ -7585,8 +7591,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.497,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4982,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cincinnati Bengals @ Baltimore Ravens|h2h|Baltimore Ravens": {
@@ -7598,8 +7604,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.6225,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.6199,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.6223,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cincinnati Bengals @ Baltimore Ravens|h2h|Cincinnati Bengals": {
@@ -7611,8 +7617,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.3775,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.3801,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.3777,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cincinnati Bengals @ Baltimore Ravens|spreads|Baltimore Ravens": {
@@ -7624,8 +7630,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4962,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4885,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cincinnati Bengals @ Baltimore Ravens|spreads|Cincinnati Bengals": {
@@ -7637,8 +7643,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5038,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5115,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cincinnati Bengals @ Baltimore Ravens|totals|Over": {
@@ -7650,8 +7656,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4987,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4975,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cincinnati Bengals @ Baltimore Ravens|totals|Under": {
@@ -7663,8 +7669,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5013,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5025,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tampa Bay Buccaneers @ Carolina Panthers|h2h|Carolina Panthers": {
@@ -7676,8 +7682,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.4675,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5827,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5758,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tampa Bay Buccaneers @ Carolina Panthers|h2h|Tampa Bay Buccaneers": {
@@ -7689,8 +7695,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5325,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4173,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4242,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tampa Bay Buccaneers @ Carolina Panthers|spreads|Carolina Panthers": {
@@ -7702,8 +7708,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5054,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5011,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5032,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tampa Bay Buccaneers @ Carolina Panthers|spreads|Tampa Bay Buccaneers": {
@@ -7715,8 +7721,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.4946,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4989,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4968,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tampa Bay Buccaneers @ Carolina Panthers|totals|Over": {
@@ -7728,8 +7734,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5026,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5011,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Tampa Bay Buccaneers @ Carolina Panthers|totals|Under": {
@@ -7741,8 +7747,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4974,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4989,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cleveland Browns @ Tennessee Titans|h2h|Cleveland Browns": {
@@ -7754,8 +7760,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.4486,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5242,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5264,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cleveland Browns @ Tennessee Titans|h2h|Tennessee Titans": {
@@ -7767,8 +7773,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5514,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4758,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4736,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cleveland Browns @ Tennessee Titans|spreads|Cleveland Browns": {
@@ -7780,8 +7786,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4987,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4975,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cleveland Browns @ Tennessee Titans|spreads|Tennessee Titans": {
@@ -7793,8 +7799,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5013,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5025,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cleveland Browns @ Tennessee Titans|totals|Over": {
@@ -7806,8 +7812,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4994,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4989,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Cleveland Browns @ Tennessee Titans|totals|Under": {
@@ -7819,8 +7825,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5006,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5011,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|New York Giants @ Houston Texans|h2h|Houston Texans": {
@@ -7910,8 +7916,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.4365,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.3233,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.3216,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Indianapolis Colts @ Minnesota Vikings|h2h|Minnesota Vikings": {
@@ -7923,8 +7929,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5635,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.6767,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.6784,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Indianapolis Colts @ Minnesota Vikings|spreads|Indianapolis Colts": {
@@ -7936,8 +7942,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5054,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4993,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4986,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Indianapolis Colts @ Minnesota Vikings|spreads|Minnesota Vikings": {
@@ -7949,8 +7955,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.4946,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5007,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5014,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Indianapolis Colts @ Minnesota Vikings|totals|Over": {
@@ -7962,8 +7968,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4987,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4975,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Indianapolis Colts @ Minnesota Vikings|totals|Under": {
@@ -7975,8 +7981,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5013,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5025,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Miami Dolphins @ New York Jets|h2h|Miami Dolphins": {
@@ -7989,7 +7995,7 @@
     "opening_fair_prob": 0.4365,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
     "latest_fair_prob": 0.3371,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Miami Dolphins @ New York Jets|h2h|New York Jets": {
@@ -8002,7 +8008,7 @@
     "opening_fair_prob": 0.5635,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
     "latest_fair_prob": 0.6629,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Miami Dolphins @ New York Jets|spreads|Miami Dolphins": {
@@ -8014,8 +8020,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4995,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4989,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Miami Dolphins @ New York Jets|spreads|New York Jets": {
@@ -8027,8 +8033,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5005,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5011,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Miami Dolphins @ New York Jets|totals|Over": {
@@ -8040,8 +8046,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5027,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5054,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Miami Dolphins @ New York Jets|totals|Under": {
@@ -8053,8 +8059,8 @@
     "commence_time": "2026-10-25T17:00:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4973,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4946,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Denver Broncos @ Arizona Cardinals|h2h|Arizona Cardinals": {
@@ -8144,8 +8150,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5635,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.6438,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.637,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Green Bay Packers @ Detroit Lions|h2h|Green Bay Packers": {
@@ -8157,8 +8163,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.4365,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.3562,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.363,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Green Bay Packers @ Detroit Lions|spreads|Detroit Lions": {
@@ -8170,8 +8176,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5077,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.509,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Green Bay Packers @ Detroit Lions|spreads|Green Bay Packers": {
@@ -8183,8 +8189,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4923,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.491,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Green Bay Packers @ Detroit Lions|totals|Over": {
@@ -8196,8 +8202,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.504,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5054,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Green Bay Packers @ Detroit Lions|totals|Under": {
@@ -8209,8 +8215,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.496,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4946,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Rams @ Las Vegas Raiders|h2h|Las Vegas Raiders": {
@@ -8222,8 +8228,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.2591,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.2675,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.2687,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Rams @ Las Vegas Raiders|h2h|Los Angeles Rams": {
@@ -8235,8 +8241,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.7409,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.7325,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.7313,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Rams @ Las Vegas Raiders|spreads|Las Vegas Raiders": {
@@ -8248,8 +8254,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4952,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5015,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Rams @ Las Vegas Raiders|spreads|Los Angeles Rams": {
@@ -8261,8 +8267,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5048,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4985,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Rams @ Las Vegas Raiders|totals|Over": {
@@ -8274,8 +8280,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.4977,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.4953,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Los Angeles Rams @ Las Vegas Raiders|totals|Under": {
@@ -8287,8 +8293,8 @@
     "commence_time": "2026-10-25T20:25:00Z",
     "opening_fair_prob": 0.5,
     "opening_observed_at": "2026-08-26T22:34:47.238394+00:00",
-    "latest_fair_prob": 0.5023,
-    "latest_observed_at": "2026-10-15T23:31:32.728156+00:00",
+    "latest_fair_prob": 0.5047,
+    "latest_observed_at": "2026-10-18T16:23:32.865509+00:00",
     "closed": false
   },
   "game|Kansas City Chiefs @ Seattle Seahawks|h2h|Kansas City Chiefs": {
